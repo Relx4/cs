@@ -1,3 +1,4 @@
+/*from Leetbook, about stack, ane easy question*/
 #include <stdio.h>
 #include<stdlib.h>
 
